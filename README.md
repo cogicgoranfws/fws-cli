@@ -1,0 +1,1 @@
+# Practice npm library publishing
