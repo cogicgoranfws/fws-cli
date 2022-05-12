@@ -6,8 +6,9 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node",
-    "build": "tsc"
+    "start": "node .",
+    "build": "tsc",
+    "build-run": "tsc && node ."
   },
   "dependencies": {
     "commander": "^9.2.0",
